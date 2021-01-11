@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/kapeiharshad/rabbitMQ-tutorial#readme",
   "dependencies": {
-    "amqp": "^0.2.7"
+    "amqplib": "^0.6.0"
   }
 }
