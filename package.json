@@ -1,0 +1,22 @@
+{
+  "name": "rabbitmq-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapeiharshad/rabbitMQ-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kapeiharshad/rabbitMQ-tutorial/issues"
+  },
+  "homepage": "https://github.com/kapeiharshad/rabbitMQ-tutorial#readme",
+  "dependencies": {
+    "amqp": "^0.2.7"
+  }
+}
